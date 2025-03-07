@@ -1,0 +1,8 @@
+{
+  "name": "🍓 Malina Rádio",
+  "short_name": "🍓 Malina",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e14f4f",
+  "theme_color": "#e14f4f"
+}
